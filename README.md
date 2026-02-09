@@ -6,10 +6,11 @@
 視[統一文言編程語言](../README.md)，參[MySQL](https://dev.mysql.com/doc/refman)、[PostgreSQL](https://www.postgresql.org/docs/current)、並諸非關係數據庫，揚長避短。
 
 ## 目錄
-- [語句](../statements.md)
+- [語句](stmts.md)
   - [數據定義語句](ddl.md)
   - [數據操縱語句](dml.md)
   - [事務語句](tx.md)
 - [數據結構](structure.md)
-  - [數據類型](../types.md)
-  - [表達式](../expressions.md)
+  - [數據類型](types.md)
+  - [表達式](expressions.md)
+
